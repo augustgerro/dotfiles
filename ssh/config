@@ -1,0 +1,8 @@
+Host github.com
+  User git
+  HostName github.com
+  PreferredAuthentications publickey
+  IdentityFile ~/.ssh/github_id_rsa
+
+Host *
+  RemoteForward 52698 127.0.0.1:52698
