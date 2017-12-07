@@ -1,9 +1,34 @@
+- defaults:
+    link:
+      force: true
+      create: true
+      relink: true
+
 - clean: ['~']
 
 - link:
+    ~/.atom/packages/: editors/atom/packages
+    ~/.atom/config.cson/: editors/atom/config.cson
+    ~/.atom/init.coffee/: editors/atom/init.coffee
+    ~/.atom/keymap.cson/: editors/atom/keymap.cson
+    ~/.atom/projects.cson/: editors/atom/projects.cson
+    ~/.atom/snippets.cson/: editors/atom/snippets.cson
+    ~/.atom/styles.less/: editors/atom/styles.less
     ~/.bash_profile: bash_profile
-    ~/.ssh/config:
-        path: ssh/config
-        create: true
+    ~/.editorconfig: editorconfig
+    ~/.gitignore_global: git/gitignore_global
+    ~/.gitconfig: git/gitconfig
+    ~/.gapps: gapps
+    ~/.npmrc: npmrc
+    ~/.ssh/config: ssh/config
+    ~/.vscode/extensions: editors/vscode
+    ~/.zshrc: zsh/zshrc
+    ~/Brewfile: Brewfile
+    /Users/martien/Library/Application Support/Sublime Text 3/Packages/User: editors/sublime-text
 
+# Install homebrew, homebrew-cask and mas
+- shell:
+  - ~/.dotfiles/scripts/homebrew.sh
 
+- link:
+    ~/.oh-my-zsh/themes/moranje.zsh-theme: zsh/moranje.zsh-theme
