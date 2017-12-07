@@ -1,0 +1,40 @@
+<snippet>
+    <content><![CDATA[
+${3:Consult M. Oranje iom ${TM_DIENST_SUPERVISOR/(dr\. )?(.*?),.+/\2/g}
+
+}Voorgeschiedenis
+$4
+
+Medicatie
+$5
+
+Anamnese
+$6
+
+Lichamelijk onderzoek
+p $7 RR $8/$9 EMV $10
+
+Neurologisch onderzoek
+$11
+
+Aanvullend onderzoek
+$12
+
+Conclusie
+$13
+
+Beleid M. Oranje iom ${TM_DIENST_SUPERVISOR/(dr\. )?(.*?),.+/\2/g}
+$14
+
+${2:SEH} → ${15:311}
+$1			Beleid: ${16:volledig}
+C/ $13
+VG/$0
+A/ $6
+NO/
+AO/ $12
+B/ $14
+]]></content>
+    <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+    <tabTrigger>seh</tabTrigger>
+</snippet>

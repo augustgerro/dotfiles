@@ -1,0 +1,5 @@
+<snippet>
+  <content><![CDATA[
+${15:TNP intact, }${17:KHP intact, }${18:normaal gangspoor}${19:, KDG intact}]]></content>
+  <tabTrigger>__no-coordinatie-kort</tabTrigger>
+</snippet>

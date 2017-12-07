@@ -1,0 +1,51 @@
+<snippet>
+  <content><![CDATA[
+Geachte collega,
+
+Bovengenoemde patiënt werd $1-2017 van tot en met $2-2017 opgenomen op de afdeling Neurologie van het NWZ, locatie Alkmaar.
+
+**Reden van opname:**  
+${4:Krachtverlies} $5  
+
+**Voorgeschiedenis:**  
+$0  
+
+Voor anamnese en lichamelijk onderzoek verwijs ik naar de Spoedeisende Hulp brief van $1-2017.  
+
+**Medicatie bij opname:**  
+  
+
+**Aanvullend onderzoek:**  
+CT-hersenen: ${8: Geen aanwijzingen voor bloedingen of recente ischemie}.  
+${9:Duplex carotiden: geen significante stenosen.  
+}${10:Nuchterlab: Normaal lipidenspectrum, normaal glucose.}  
+
+**Decursus:**  
+Patiënt werd opgenomen in verband met een infarct $6 hemisfeer op de Brain Care Unit. Als secundaire profylaxe werd er gestart met clopidogrel 1dd 75mg en atorvastatine 1dd 40mg. 24-uurs ritmeregistratie liet geen ritmestoornissen zien. Er deden zich gedurende opname geen complicaties voor. Patiënt kon op $2-2017 naar huis worden ontslagen. ${7:Bij ontslag had patiënt geen restverschijnselen meer}.  
+
+**Conclusie:**  
+Infarct $6 hemisfeer.  
+
+**Medicatie bij ontslag:**  
+*Nieuw*  
+Clopidogrel 1dd 75mg  
+Atorvastatine 1dd 40mg  
+*Onveranderd*  
+  
+
+${11:**Beleid bij huisarts:**  
+${12:(bij myocardinfarct, perifeer arterieel vaatlijden, atherosclerose van de aorta, atriumfibrilleren op ECG of in de voorgeschiedenis, duplex carotiden met enige plaque en/ of stenose)
+}Graag verzoek ik u over 3 maanden het LDL-cholesterol te controleren. Indien dit >2.5 mmol/l is, kan atorvastatine vervangen worden door Rosuvastatine 20 mg, zo nodig op te hogen naar 40 mg. Als alternatief zou aan atorvastatine 40 mg 1dd ezetimibe 10 mg toegevoegd kunnen worden.  
+
+}**Vervolgafspraken:**  
+CVA-Nazorg: $3  
+${13:Verwijzing vasculaire geneeskunde bij TG >5 mmol/L  
+}
+Met collegiale hoogachting, $TM_NAME_AND_TITLE  
+
+Mede namens, $TM_ZAAL_SUPERVISOR  
+
+]]></content>
+  <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+  <tabTrigger>brief-cva</tabTrigger>
+</snippet>

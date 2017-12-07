@@ -1,0 +1,10 @@
+<snippet>
+  <content><![CDATA[
+${1:X-thorax: $2}
+${3:Bloedgas: $4}
+${5:ECG: $6}
+${7:Urineproductie: $8}
+${9:X-bekken:$10}
+${11:CT-abdomen: $12}]]></content>
+  <tabTrigger>psao</tabTrigger>
+</snippet>

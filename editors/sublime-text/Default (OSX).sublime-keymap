@@ -1,0 +1,86 @@
+[
+  {
+    "keys":[
+      "ctrl+alt+f"
+    ],
+    "command":"code_formatter"
+  },
+  {
+    "keys":[
+      "super+alt+a"
+    ],
+    "command":"alignment"
+  },
+
+  {
+    "keys":[
+      "ctrl+alt+f"
+    ],
+    "command":"code_formatter"
+  },
+
+  // { "key": "auto_complete_visible", "operator": "equal", "operand": true }
+
+  // swap the keybindings for paste and paste_and_indent
+  {
+    "keys":[
+      "super+v"
+    ],
+    "command":"paste_and_indent"
+  },
+  {
+    "keys":[
+      "super+shift+v"
+    ],
+    "command":"paste"
+  },
+
+  {
+    "keys":[
+      "ctrl+alt+f"
+    ],
+    "command":"find_next_conflict"
+  },
+  {
+    "keys":[
+      "ctrl+alt+o"
+    ],
+    "command":"keep",
+    "args":{
+      "keep":"ours"
+    }
+  },
+  {
+    "keys":[
+      "ctrl+alt+t"
+    ],
+    "command":"keep",
+    "args":{
+      "keep":"theirs"
+    }
+  },
+  {
+    "keys":[
+      "ctrl+alt+a"
+    ],
+    "command":"keep",
+    "args":{
+      "keep":"ancestor"
+    }
+  },
+  {
+    "keys":[
+      "ctrl+alt+c"
+    ],
+    "command":"list_conflict_files"
+  },
+  {
+    "keys":[
+      "ctrl+shift+c"
+    ],
+    "command": "calculate",
+    "args": {
+      "replace": true
+    }
+  },
+]

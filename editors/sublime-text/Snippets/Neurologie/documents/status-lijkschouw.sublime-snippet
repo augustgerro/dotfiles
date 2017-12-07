@@ -1,0 +1,20 @@
+<snippet>
+  <content><![CDATA[
+Bij melding vraag het volgende: plaats doek onder kin, plak de ogen dicht, neem de temperatuur op, achterhaal personalia (naam op paspoort + geboorteplaats), noteer tijd van overlijden en of er nog bijzonderheden waren.
+
+Voorgeschiedenis
+$1
+
+Toedracht van het overlijden
+Patiënt is overleden in bijzijn van $2 om $3. Vooraf aan het overlijden had patiënt last van $4. Patiënt was bekend met $5 en gebruikte hiervoor $6. ${7:Patiënt kreeg voor het overlijden de medicatie in een dosis past bij de klachten. }${8:Voor zover bekend was patiënt niet bekend met verslavingsproblematiek of suïcidaliteit en zijn er geen recente gebeurtenissen met grote negatieve impact in het leven van patiënt. }${9:Na het overlijden zijn de ogen van patiënt gesloten en is een handdoek om de kaak van patiënt geplaatst. }${10:In de kamer waar patiënt overleed werden geen bijzonderheden geconstateerd.}
+
+Inspectie
+Temperatuur $11. ${12:Geen oppervlakkig letsel aan het hoofd of aan de hals zichtbaar. }${13:Mondholte is vrij, slijmvlies aan de binnenkant van de lippen is gaaf. }${14:Pupillen wijd, isocoor en lichtstijf. }${15:Oogboldruk is afwezig, conjunctivae zijn normaal van kleur. }De nek en kaak zijn ${16:stijf}, de overige spieren zijn slap (< 2 a 3 uur). ${17:Bij auscultatie werd geen hartslag gehoord, en ook polspulsaties waren afwezig. }Er werden ${18:geen} lijkvlekken (30 min - 2 uur) geconstateerd ${19:op de $20 en deze waren ${21:niet} wegdrukbaar (< 12 - 24 uur)}.
+
+Niet-natuurlijk dood bij:
+${22:Kinderen}${23:Ongeval}${24:Verdrinking}${25:Verstikking}${26:Geweld (moord, doodslag of mishandeling)}${27:Vergiftiging (waaronder de interactie van geneesmiddelen)}${28:Overdosis}${29:Zelfdoding}${30:Euthanasie (hiervoor geldt een speciale procedure, zie kader Euthanasie)}${31:Actieve levensbeëindiging zonder verzoek}${32:Zwangerschapsonderbreking na 24 of meer weken zwangerschap}${33:Overlijden door een medische of paramedische calamiteit}
+
+Evaluatie
+${34:Het overlijden werd voorafgegaan door een ziekte die het overlijden verklaart, namelijk $35. }${36:Het overlijden werd voorafgegaan door klachten die het overlijden verklaren, namelijk $37. }${38:De oorzaak van het overlijden is niet duidelijk, maar verklaringen van omstanders, het onderzoek van de omgeving en het onderzoek van de overledene leveren in onderling verband geen aanwijzingen op voor een niet-natuurlijke dood.}${39: Het overlijden is het gevolg van een bekende complicatie van een juist geïndiceerde en juist uitgevoerde medische handeling.} Er heeft ${40:geen }overleg met de schouwarts plaatsgevonden. Het overlijden werd als ${41:niet-}natuurlijk afgegeven.]]></content>
+  <tabTrigger>lijkschouw</tabTrigger>
+</snippet>

@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+Tractus respiratorius
+${1:Niet gehoest}${2:, geen sputum opgehoest}${3:, niet kortademig geweest}${4:, geen pijn vastzittend aan de ademhaling}
+]]></content>
+    <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+    <tabTrigger>trresp</tabTrigger>
+</snippet>

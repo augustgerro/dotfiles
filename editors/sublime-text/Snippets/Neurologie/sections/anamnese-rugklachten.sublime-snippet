@@ -1,0 +1,5 @@
+<snippet>
+  <content><![CDATA[
+Patiënt heeft sinds $1 last van pijn in de rug met uitstraling naar het ${2:rechter} ${3:been}, ${4:niet }progressief. Verder heeft patiënt sensibele uitval in het ${4: rechter} ${5:been} (${6:doofheid}). De uitval verloopt volgens dermatoom ${7:L5}.${8: Geen} rijbroek anesthesie of verminderd gevoel van mictie of defecatie.${9: voor het laatst gegeten om $10}]]></content>
+  <tabTrigger>_anamnese-rugklachten</tabTrigger>
+</snippet>

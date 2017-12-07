@@ -1,0 +1,7 @@
+<snippet>
+  <content><![CDATA[
+Vitale controles: ${1:geen hypertensie, overige controles gb}
+Monitor: ${2:geen AF, geen andere ritmestoornissen}
+Nuchter lab: ${3:normaal lipiden profiel geen hyperglykemie}]]></content>
+  <tabTrigger>_controles-stroke</tabTrigger>
+</snippet>

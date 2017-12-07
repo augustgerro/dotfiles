@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+${1:Naar huis},
+${2:Advies: Strikte bedrust ontraden, voldoende pijnstilling, mogelijkheid van concentratieproblemen en toegenomen vermoeidheid besproken.}
+${3:Contact opnemen bij: Snelle verslechtering, forse toename van de hoofdpijn, herhaaldelijk braken, verwardheid en slecht wekbaar zijn.}
+]]></content>
+  <tabTrigger>__beleid-trauma-capitis</tabTrigger>
+</snippet>

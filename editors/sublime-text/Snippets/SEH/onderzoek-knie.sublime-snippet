@@ -1,0 +1,10 @@
+<snippet>
+    <content><![CDATA[
+Inspectie: ${1:geen standsafwijking}${2:, geen zwelling}${3:, geen hydrops}${4:, geen hematoom}${5:, geen wond}
+Pijn: ${6:geen drukpijn patella}${7:, geen drukpijn proximale tibia mediaal en lateraal}${8:, geen drukpijn distale femur}
+Functie: ${9:kan flecteren en extenderen}${10:, kan gestrekt heffen}${11:, schuifladetest negatief}${12, lachman negatief}${13:, collaterale banden intact}${14:, McMurray negatief}
+Sensibiliteit: ${15:globaal intact}
+]]></content>
+    <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+    <tabTrigger>loknie</tabTrigger>
+</snippet>

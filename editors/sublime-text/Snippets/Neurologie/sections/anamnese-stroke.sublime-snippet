@@ -1,0 +1,7 @@
+<snippet>
+  <content><![CDATA[
+Patiënt bemerkte om $1 $2${3:, hiermee wakker geworden voor het laatst zonder klachten om $4}.${5: De klachten hebben $6 geduurd.} Daarbij had patiënt geen last van ${7:hoofdpijn}${8:, braken}${9:, krachtverlies elders}${10:, moeite met spreken} of ${11:gevoelsstoornissen}. Risicofactoren: ${12:diabetes}, ${13:hypertensie}, ${14:hypercholesterolemie}, ${15:overgewicht} en ${16:roken}.${17:
+
+Familie: ${18:__anamnese-familie-hvz}}]]></content>
+  <tabTrigger>_anamnese-stroke</tabTrigger>
+</snippet>

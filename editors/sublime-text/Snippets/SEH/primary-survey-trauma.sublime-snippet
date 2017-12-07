@@ -1,0 +1,14 @@
+<snippet>
+    <content><![CDATA[
+Primary survey
+A: ${1:ademweg vrij}${2:, CWK niet drukpijnlijk in de midline}${3:, normale range of motion}${4:, geen neurologische klachten}.
+B: ${5:NAG bdz}, AF $6, SpO2 $7${8:, geen drukpijn op de thorax}.
+C: RR $9, HF $10${11:, buik soepel en niet pijnlijk}${12:, bekken stabiel}${13:, femur bdz stabiel}${14:, geen uitwendig bloedverlies}${15:, acra warm}${16:, capillary refill < 3 sec}
+D: EMV ${17:15}${18:, PEARL}${19:, geen lateralisatie}.
+E: ${20:Wervelkolom niet drukpijnlijk}, glucose $21, temperatuur $22.
+]]></content>
+    <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+    <tabTrigger>abcdtrauma</tabTrigger>
+    <!-- Optional: Set a scope to limit where the snippet will trigger -->
+    <!-- <scope>source.python</scope> -->
+</snippet>

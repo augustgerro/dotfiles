@@ -1,0 +1,5 @@
+<snippet>
+  <content><![CDATA[
+${1:Uitval} bij infarct ${2:${3:linker} hemisfeer}, stroomgebied a. $4]]></content>
+  <tabTrigger>__conclusie-stroke</tabTrigger>
+</snippet>

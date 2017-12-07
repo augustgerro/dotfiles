@@ -1,0 +1,33 @@
+<snippet>
+	<content><![CDATA[
+Reden van opname: $4
+Consultvraag: $5
+
+Voorgeschiedenis
+$6
+
+Medicatie
+$7
+
+Anamnese
+$8
+
+Neurologisch onderzoek
+$9
+
+Aanvullend onderzoek
+$10
+
+Conclusie
+$11
+
+Beleid M. Oranje iom $3
+$12
+
+ICC ${2:}
+$1						DOT $13
+C/ $11
+${14:AO/ ${15}
+}B/ $16]]></content>
+	<tabTrigger>consult</tabTrigger>
+</snippet>

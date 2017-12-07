@@ -1,0 +1,4 @@
+<snippet>
+  <tabTrigger>test</tabTrigger>
+  <content><![CDATA[$1 this ${1:is} a snippet]]></content>
+</snippet>

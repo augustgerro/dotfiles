@@ -1,0 +1,5 @@
+<snippet>
+  <content><![CDATA[
+${1:Doofheid}${2:Pijn} het meest uitgesproken ${3:in het rijbroekgebied (L1-2) }${4:aan de mediale zijde bovenbeen (L3) }${5:aan demediale zijde onderbeen (L4) }${6:aan de laterale zijde onderbeen tot in dig 1 (L5) }${7:aan de achterzijde onderbeen en dig 5 (S1) }${8:aan de achterzijde bovenbeen tot onder de knieholte (S2) }${9:rond de billen (S3-5) }${10:rechts}${11:links}]]></content>
+  <tabTrigger>__no-sensibiliteit-rug</tabTrigger>
+</snippet>

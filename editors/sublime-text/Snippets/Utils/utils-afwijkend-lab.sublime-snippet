@@ -1,0 +1,4 @@
+<snippet>
+  <content><![CDATA[${SELECTION/^[^\n]*? N [^\n]*?$\n?//gm}]]></content>
+  <tabTrigger>afwijkend-lab</tabTrigger>
+</snippet>

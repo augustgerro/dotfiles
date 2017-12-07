@@ -1,0 +1,12 @@
+<snippet>
+    <content><![CDATA[
+Sinds $1 ${2:chronische} hoofdpijn VAS $3, waarbij gedurende $4 een ${5:zeurende} pijn ${6:langs het hoofd bdz}. ${7:Deze hoofdpijn komt vaker voor (1 keer per maand)}Bij de pijn is patiënt ${16:niet} misselijk, heeft ${17:niet} gebraakt, heeft ${18:geen} diarree, ${19:geen} overgevoeligheid voor licht of geluid, ${20:geen} rood oog, ${21:geen} loopneus, ${22:geen} horner en ${23:geen} neurologische uitval. ${24: Gebruikt geen paracetamol/NSAIDs > 15 dagen per maand, triptanen > 10 dagen per maand langer dan 3 maanden}
+
+${25:In de afgelopen tijd geen koorts gehad, niet ziek geweest, niet afgevallen, niet op het hoofd gevallen en het zicht is onveranderd.}${26: Patiënt slaapt goed in en kan goed doorslapen. (OSAS)}
+
+Familie: ${27:geen migraine in de directe familie}
+Sociaal: $28
+]]></content>
+    <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+    <tabTrigger>anhoofdpijn</tabTrigger>
+</snippet>

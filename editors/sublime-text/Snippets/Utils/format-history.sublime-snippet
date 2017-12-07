@@ -1,0 +1,5 @@
+<snippet>
+  <tabTrigger>format-history</tabTrigger>
+  <content><![CDATA[
+${SELECTION/(?: +)?([^\n]*?)(\d{1,2})?(?:-|\/)?(\d{1,2})?(?:-|\/)?((?:19|20)[0-9]{2})(?:-|\/)?(\d{1,2})?(?:-|\/)?(\d{1,2})?(?: ?:)?(?: +)?([^\n]+)?\n/\4 (?1\1:)(?7\7:)\n/gm}]]></content>
+</snippet>

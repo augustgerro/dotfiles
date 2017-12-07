@@ -1,0 +1,23 @@
+<snippet>
+  <content><![CDATA[
+CONFUSION ASSESSMENT METHOD-VRAGENLIJST (CAM) 
+(1 punt)
+A. Zijn er aanwijzingen voor een acute verandering in de geestelijke toestand van de patiënt vergeleken met zijn uitgangssituatie? - ja - nee 
+B. Fluctueerde het (afwijkende) gedrag gedurende de dag, dat wil zeggen: was het wisselend aan- en afwezig of was het wisselend in ernst? - ja - nee 
+
+(1 punt)
+Had de patiënt moeite zich te concentreren, bijvoorbeeld door snel afgeleid te zijn of door moeite te hebben de aandacht bij het gesprek te houden?
+
+(1 punt)
+Was het denken van de patiënt ongeorganiseerd of incoherent; bijvoorbeeld door onsamenhangende of irrelevante conversatie, een onduidelijke of onlogische gedachtegang of onvoorspelbare veranderingen van onderwerp?
+
+(1 punt)
+Hoe zou je in het algemeen het bewustzijnsniveau van de patiënt omschrijven?
+- alert (normaal) (geen punt)
+- waakzaam (hyperalert, overgevoelig voor omgevingsstimuli, schrikachtig) 
+- lethargisch (slaperig maar makkelijk wekbaar) 
+- stupor (moeilijk wekbaar) 
+- coma (niet wekbaar) 
+]]></content>
+  <tabTrigger>cas</tabTrigger>
+</snippet>

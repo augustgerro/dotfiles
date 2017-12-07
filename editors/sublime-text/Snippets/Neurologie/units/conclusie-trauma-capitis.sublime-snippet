@@ -1,0 +1,5 @@
+<snippet>
+  <content><![CDATA[
+trauma capitis met ${1:major ${2:braken }${3:post posttraumatische anterograde amnesie > 4 uur }${4:EMV score < 15 }${5:gebruik van anticoagulantia }${6:post posttraumatisch insult }${7:focale neurologische afwijkingen} }${8:minor ${9:posttraumatische anterograde amnesie 2-4 uur }${10:uitwendig hoofdletsel }${11:bewustzijnsverlies }${12:leeftijd > 40 jaar} }${13:zonder traumatisch afwijkingen op CT-hersenen}]]></content>
+  <tabTrigger>__conclusie-trauma-capitis</tabTrigger>
+</snippet>

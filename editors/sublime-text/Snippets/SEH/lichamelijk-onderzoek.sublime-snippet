@@ -1,0 +1,12 @@
+<snippet>
+    <content><![CDATA[
+Algemeen: $1
+Vitale parameters: RR $2, HF $3, AF $4, SpO2 $5, temperatuur $6, EMV $7, VAS $8
+Hoofd\hals: ${9:geen pathologische lymfeklieren palpabel}${10:, normale CVD}${11:, geen souffles over de carotiden}${12:, schildklier palpatoir niet vergroot}
+Thorax: Cor: ${13:S1 S2, geen souffles, regulair} Longen: ${14:NAG, geen bijgeluiden}
+Abdomen: ${15:NP}${16:, WT}${17:, soepele buik}${18:, lever en milt palpatoir niet vergroot}${19:, geen slagpijn in de nierloges}
+Extremiteiten: ${20:soepele kuiten}${21:, geen zwellingen of oedeem}
+]]></content>
+    <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+    <tabTrigger>loalg</tabTrigger>
+</snippet>

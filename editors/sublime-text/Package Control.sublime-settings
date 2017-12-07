@@ -1,0 +1,32 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"All Autocomplete",
+		"AutoSpell",
+		"BracketHighlighter",
+		"Calculate",
+		"Dictionaries",
+		"DictionaryAutoComplete",
+		"Handlebars",
+		"Increment Selection",
+		"JavaScriptNext - ES6 Syntax",
+		"JsPrettier",
+		"LanguageTool",
+		"Markdown Extended",
+		"MarkdownEditing",
+		"Material Theme",
+		"Material Theme - Appbar",
+		"nginx",
+		"Origami",
+		"Package Control",
+		"Pandoc",
+		"RemoteSubl",
+		"rsub",
+		"Sync Settings",
+		"WordCount"
+	]
+}

@@ -1,0 +1,16 @@
+<snippet>
+  <content><![CDATA[
+Opname op BCU volgens intracerebraal hematoom protocol,
+Bloeding gecoupeerd met $1 IE beriplex, bij INR $2 en gewicht $3kg,
+${4:Bij fenprocoumon (Marcoumar) of warfarine (Marevan) gebruik, de eerste drie dagen dagelijks INR controle. Stop fenprocoumon of warfarine. Eenmalig vitamine K 10mg iv,
+}${5:Bij acenocoumarol (Sintrom) gebruik, éénmalig na 24 uur INR controle. Stop acenocoumarol. Eenmalig vitamine K 10mg iv,
+}${6:Bij NOAC, indien Dabigatran (Pradaxa) direct contact stollingsarts, indien laatste gift <2 uur geleden geactiveerde kool (Norit) toedienen, bepaal aPTT, PT en anti-Xa,
+}${7:Stop fraxiparine of trombocyten aggregatieremmers,
+}${8:Infratentorieel: EMV controles: eerste 6 uur na ictus: à 30 minuten, 6-24 uur na ictus: à 1 uur, 24-72 uur na ictus: à 2 uur,
+}${9:Supratentorieel: EMV à 1 uur gedurende de eerste 24 uur,}
+${10:Bloeddruk à 1 uur gedurende de eerste 24 uur, daarna à 4 uur. Verlaag de bloeddruk met labetalol bloeddruk als deze systolisch >180mmHg is of de patiënt een MAP heeft van >130 (bolus intraveneus labetalol ${11:0.25*$3}mg in 1-2 minuten, bij onvoldoende effect na 10-20 minuten ${12:0.5*$3}mg),}
+Reanimatiebeleid: ${13:Volledig}
+]]></content>
+  <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+  <tabTrigger>bbloeding</tabTrigger>
+</snippet>

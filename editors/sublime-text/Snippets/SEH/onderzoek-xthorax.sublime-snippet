@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+Röntgen
+X-thorax: ${1:PA} van patiënt $2${3:, lijnen, clips, pacemaker etc}${4:, ademweg zichtbaar en in de midline}${5:, geen fracturen of afwijkingen aan weke delen}${6:, hart en mediastinum niet vergroot, scherp afgrensbaar}${7:, normale bolling diafragmakoepels, geen pleuravocht}${8:, hilus bdz geen bijzonderheden, normale longvelden, geen infiltraten zichtbaar}
+]]></content>
+    <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+    <tabTrigger>x-thorax</tabTrigger>
+</snippet>

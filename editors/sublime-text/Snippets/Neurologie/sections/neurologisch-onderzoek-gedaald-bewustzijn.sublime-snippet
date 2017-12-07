@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+E$1 Mre$2 Mli$3 V$4, patiënt oogt $5. Patiënt is ${6:niet }nekstijf.
+HZ: pupillen ${7:normale grootte}, ${8:isocoor} en ${9:lichtreactief} (NIIa & NIIIe), corneareflex ${10:beiderzijds aanwezig} (NVb & VIIb, pons), braakreflex (medulla, NIXe & NXe), oculocefale reflex ${11: intact in beide richtingen} (NVIIIa & NIIIe, NIVe, NVIe)
+M: ${12:Symmetrische} reactie van armen en benen op pijnprikkel
+R: VZR: ${13:beiderzijds plantairflexie}]]></content>
+  <tabTrigger>_no-gedaald-bewustzijn</tabTrigger>
+</snippet>

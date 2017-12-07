@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+Tractus digestivus
+${1:Normale eetlust}${2:, geen refluxklachten}${3:, niet misselijk}${4:, niet gebraakt}${5:, geen pijn in de buik}${6:, onveranderd ontlastingspatroon}${7:, bruine kleur}${8:, geen bloed of slijm}
+]]></content>
+    <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+    <tabTrigger>trdig</tabTrigger>
+</snippet>

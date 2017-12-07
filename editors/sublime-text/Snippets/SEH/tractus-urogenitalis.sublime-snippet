@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+Tractus urogenitalis
+${1:Geen dysurie}${2:, normale mictie (kleur, geur en frequentie)}
+]]></content>
+    <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+    <tabTrigger>truro</tabTrigger>
+</snippet>

@@ -1,0 +1,5 @@
+<snippet>
+  <content><![CDATA[
+${1:(V) ${2:tast intact}, ${3:pijnsensatie intact} (G) ${4:vibratiezin intact}${5:, proprioceptie vingers/tenen intact}${6:, proef van Romberg (proprioceptie): negatief}}]]></content>
+  <tabTrigger>__no-sensibiliteit</tabTrigger>
+</snippet>

@@ -1,0 +1,17 @@
+<snippet>
+  <content><![CDATA[
+mNIHSS
+Maand en leeftijd: ${1:beide correct (0 punten)}${2:1 correct (1 punten)}${3:beide fout (2 punten)}
+Knipper ogen en knijp in mijn handen: ${4:beide correct (0 punten)}${5:1 correct (1 punten)}${6:beide fout (2 punten)}
+Oogvolgbeweging: ${7:normaal (0 punten)}${8:voorkeursstand (1 punten)}${9:blikparese (2 punten)}
+Gezichtsveld: ${10:normaal (0 punten)}${11:gedeeltelijke hemianopsie (1 punten)}${12:hemianopsie (2 punten)}${13:bilaterale hemianopsie (2 punten)}
+Motoriek linker arm: ${14:normaal (0 punten)}${15:zakt uit voor 10 sec (1 punten)}${16:valt voor 10 sec (2 punten)}${17:niet tegen zwaartekracht in (3 punten)}${18:geen beweging (4 punten)}
+Motoriek rechter arm: ${19:normaal (0 punten)}${20:zakt uit voor 10 sec (1 punten)}${21:valt voor 10 sec (2 punten)}${22:niet tegen zwaartekracht in (3 punten)}${23:geen beweging (4 punten)}
+Motoriek linker been: ${24:normaal (0 punten)}${25:zakt uit voor 10 sec (1 punten)}${26:valt voor 10 sec (2 punten)}${27:niet tegen zwaartekracht in (3 punten)}${28:geen beweging (4 punten)}
+Motoriek rechter been: ${29:normaal (0 punten)}${30:zakt uit voor 10 sec (1 punten)}${31:valt voor 10 sec (2 punten)}${32:niet tegen zwaartekracht in (3 punten)}${33:geen beweging (4 punten)}
+Sensibiliteit: ${34:geen sensibele stoornis (0 punten)}${35:sensibele stoornis (1 punten)}
+Afasie: ${36:geen afasie (0 punten)}${37:milde afasie (1 punten)}${38:ernstige afasie (2 punten)}${39:mutisme (3 punten)}
+Extinctie/aandachtsstoornis/neglect: ${40:normaal (0 punten)}${41:mild (1 punten)}${42:ernstig (2 punten)}
+]]></content>
+  <tabTrigger>mnihss</tabTrigger>
+</snippet>

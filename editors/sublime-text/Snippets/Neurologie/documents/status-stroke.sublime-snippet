@@ -1,0 +1,40 @@
+<snippet>
+	<content><![CDATA[
+${3:Consult M. Oranje iom ${TM_DIENST_SUPERVISOR/(dr\. )?(.*?),.+/\2/g}
+
+}Voorgeschiedenis
+$4
+
+Medicatie
+$5
+
+Anamnese
+${6:_anamnese-stroke}
+
+Lichamelijk onderzoek
+p $7 RR $8/$9 EMV $10
+
+Neurologisch onderzoek
+${11:_no-stroke}
+
+Aanvullend onderzoek
+CT-hersenen: ${12:__ct-hersenen-stroke}
+Lab: $13
+ECG: ${14:__ecg-algemeen}
+
+Conclusie
+${15:__conclusie-stroke}
+
+Beleid M. Oranje iom ${TM_DIENST_SUPERVISOR/(dr\. )?(.*?),.+/\2/g}
+${16:__beleid-stroke}
+
+${2:SEH} → ${17:BCU}
+$1				Beleid: ${18:volledig}
+C/ ${15:__conclusie-stroke}
+VG/$0
+A/ ${6:_anamnese-stroke}
+NO/
+AO/ CT-hersenen: ${12:__ct-hersenen-stroke} Lab: $13 ECG: ${14:__ecg-algemeen}
+B/ ${16:__beleid-stroke}]]></content>
+	<tabTrigger>stroke</tabTrigger>
+</snippet>

@@ -1,0 +1,5 @@
+<snippet>
+  <content><![CDATA[
+Doorgemaakt ${1:eerste }${2:gegeneraliseerd}${3:partiëel} tonisch${4:-klonisch} insult ${5:dd iopathisch }${6:dd collaps }${7:dd onttrekking }${8:dd metabool }${9:dd post-stroke }${10:dd RIP }${11:dd psychogeen}]]></content>
+  <tabTrigger>__conclusie-epilepsie</tabTrigger>
+</snippet>

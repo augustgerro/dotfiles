@@ -1,0 +1,4 @@
+<snippet>
+  <content><![CDATA[${SELECTION/(.)/ /gmi}]]></content>
+  <tabTrigger>whitespace-replace</tabTrigger>
+</snippet>

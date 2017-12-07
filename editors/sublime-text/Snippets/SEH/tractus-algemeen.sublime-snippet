@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+Algemeen
+${1:Niet ziek geweest}${2:, geen onverklaard gewichtsverlies of toename}${3:, geen koorts}${4:, geen nachtzweten}${5:, geen overmatige vermoeidheid}${6:, geen recent bezoek aan een endemisch gebied}
+]]></content>
+    <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+    <tabTrigger>tralg</tabTrigger>
+</snippet>

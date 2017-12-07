@@ -1,0 +1,10 @@
+<snippet>
+  <content><![CDATA[
+${1:Patiënt is helder}${2:, georiënteerd}${3:, geen afasie }${4:of dysartrie.}${5: Patiënt is ${6:rechts}handig.}${7: Recall ${8:3}/3, retentie ${9:3}/3.}
+HZ: ${10:__no-hersenzenuwen-kort}
+M: ${11:__no-motoriek-hersenen}
+S: ${12:__no-sensibiliteit}
+R: ${13:__no-reflexen-kort}
+C: ${14:__no-coordinatie}]]></content>
+  <tabTrigger>_no-stroke</tabTrigger>
+</snippet>

@@ -1,0 +1,18 @@
+<snippet>
+  <content><![CDATA[
+Risicotoename op bloeding van 0,6% naar 6% besproken,
+Trombolyse met $1mg alteplase in 1 uur, bolus van 10% vooraf,
+Opname op BCU volgens stroke protocol,
+24-uurs ritme-observatie,
+Morgen nuchterlab,
+${2:Duplex carotiden,
+}${3:Start} clopidogrel 75mg 24 uur na trombolyse, eenmalig opladen met 300mg,
+${4:Start} atorvastatine 40mg 1dd an (bij levensverwachting > 2 jaar),
+${5:Start pantoprazol 20mg 1dd ${6:leeftijd >70 jaar}${7: tr. digestivus in voorgeschiedenis}${8:gebruik van NSAIDs of andere anti-coagulantia},
+}${9:Start fraxiparine bij bedleggerigheid,
+}${10:Eventueel morgen MRI inplannen, ${11:contra-indicaties uitgevraagd, geen bijzonderheden}
+}${12:Consult cardiologie bij atriumfibrilleren, CHADS-VASC $13, HAS-BLED $14,
+}${15:Consult ${16:ergo (natraject)}${17: fysio (loopvaardigheid)}${18: logo (spraaktraining en slikfunctie)},
+}Reanimatiebeleid: ${19:Volledig}]]></content>
+  <tabTrigger>__beleid-trombolyse</tabTrigger>
+</snippet>

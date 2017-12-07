@@ -1,0 +1,9 @@
+<snippet>
+  <content><![CDATA[
+A: Patiënt ${1:spreekt}, ademweg ${2:vrij}, CWK ${3:stabiel}
+B: ${4:Voldoende diepe} ${5:zichtbare} ${6:bilaterale} ademexcursies, AF $7, SpO2 $8, trachea ${9:in de midline, }${10:ademt zonder hulpadehalingsspieren te gebruiken, }${11:geen zichtbare traumata, }${12:sonore percussie, }${13:NAG bij auscultatie}
+C: ${14:Geen aanwijzingen voor externe of interne bloedingen, }HF $15, RR $16, ${17:goed gecirculeerde}${18:bleke}${19:grauwe}${20:klamme} huid
+D: EMV ${21:15}, pupillen ${22:normale grootte, }${23:isocoor} en ${24:niet }lichtreactief, ${25:geen }lateralisatie $26
+E: ${27:Bij grove inspectie geen andere traumata, }glucose $28, temperatuur $29]]></content>
+  <tabTrigger>ps</tabTrigger>
+</snippet>

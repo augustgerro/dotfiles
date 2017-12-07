@@ -1,0 +1,39 @@
+<snippet>
+  <content><![CDATA[
+${3:Consult M. Oranje iom ${TM_DIENST_SUPERVISOR/(dr\. )?(.*?),.+/\2/g}
+
+}Voorgeschiedenis
+$4
+
+Medicatie
+$5
+
+Anamnese
+${6:_anamnese-epilepsie}
+
+Lichamelijk onderzoek
+p $7 RR $8/$9 EMV $10
+
+Neurologisch onderzoek
+${11:_no-kort}
+
+Aanvullend onderzoek
+CT-hersenen: ${12:Geen grove pathologie}
+Lab: ${13:Geen electrolystoornis, overig lab gb}
+
+Conclusie
+${14:__conclusie-epilepsie}
+
+Beleid M. Oranje iom ${TM_DIENST_SUPERVISOR/(dr\. )?(.*?),.+/\2/g}
+${15:__beleid-epilepsie}
+
+${2:SEH} → ${16:BCU}
+$1        Beleid: ${17:volledig}
+C/ ${14:__conclusie-epilepsie}
+VG/$0
+A/ ${6:_anamnese-epilepsie}
+NO/
+AO/ CT-hersenen: ${12:Geen grove pathologie} Lab: ${13:Geen electrolystoornis, overig lab gb}
+B/ ${15:__beleid-epilepsie}]]></content>
+  <tabTrigger>epilepsie</tabTrigger>
+</snippet>

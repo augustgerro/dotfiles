@@ -1,0 +1,9 @@
+<snippet>
+  <content><![CDATA[
+Patiënt is${1: om }gevallen doordat $2. Patiënt gebruikt ${3:geen} anticoagulantia, was ${4:niet} bekend met een leverfunctiestoornis en is ${5:niet} bekend met stollingsstoornissen. Patiënt heeft ${6:niet} gebraakt, is ${7:niet} buiten bewustzijn geweest en er was ${8:geen} sprake van posttraumatische anterograde amnesie. Er was geen ${9:focale neurologische uitval} of ${10:cognitieve achteruitgang}.${11:
+
+Sociaal: ${12:__anamnese-sociaal}}
+
+Differentiaal diagnose: ]]></content>
+  <tabTrigger>_anamnese-trauma-capitis</tabTrigger>
+</snippet>

@@ -1,0 +1,5 @@
+<snippet>
+  <content><![CDATA[
+${1:TNP intact, }${2:KHP intact, }${3:rebound symmetrisch normaal, }${4:diadochokinese handen en voeten intact, }${5:rompbalans intact, }${6:normaal rechtlijnig gangspoor, }${7:koorddansersgang intact}]]></content>
+  <tabTrigger>__no-coordinatie</tabTrigger>
+</snippet>

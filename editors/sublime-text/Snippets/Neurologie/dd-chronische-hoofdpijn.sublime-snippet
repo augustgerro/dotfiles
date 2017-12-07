@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[
+Chronische hoofdpijn ${1:dd spanningshoofdpijn }${2:dd medicatie }${3:dd RIP }${4:dd idiopathische intracraniële hypertensie }${5:dd cervicogene hoofdpijn en occiptale neuralgie }${6:dd OSAS}
+]]></content>
+    <tabTrigger>dd-chronische-hoofdpijn</tabTrigger>
+</snippet>

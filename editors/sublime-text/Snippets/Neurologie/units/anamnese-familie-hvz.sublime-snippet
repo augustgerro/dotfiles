@@ -1,0 +1,5 @@
+<snippet>
+  <content><![CDATA[
+${1:Geen} 1e/2e-graads familieleden met premature hart- en vaatziekten${2: (man ˂55e jaar, vrouw ˂60e jaar)}, verhoogd cholesterol kom ${3:niet} familiair voor.]]></content>
+  <tabTrigger>__anamnese-familie-hvz</tabTrigger>
+</snippet>

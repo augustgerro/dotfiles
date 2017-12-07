@@ -1,0 +1,6 @@
+<snippet>
+  <content><![CDATA[
+Mentale toestand: waakzaamheid ${1:adequaat}, georiënteerd in ${2:tijd} en ${3:plaats}, aandacht ${4:normaal} (retentie ${5:3}/3, recall ${6:3}/3), affect ${7:neutraal}${8: (verdrietig, huilerig, eufoor, expansief)}, motivatie ${9:onveranderd}, gedrag ${10:niet opvallend veranderd} en cognitie ${11:niet} achteruit gegaan in $12.
+  ]]></content>
+  <tabTrigger>no-mentaal</tabTrigger>
+</snippet>

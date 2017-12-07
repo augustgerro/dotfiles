@@ -1,0 +1,5 @@
+<snippet>
+  <content><![CDATA[
+${1:Geen traumatische afwijken in het hoofd}]]></content>
+  <tabTrigger>__ct-hersenen-trauma</tabTrigger>
+</snippet>

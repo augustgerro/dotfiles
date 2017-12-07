@@ -1,0 +1,6 @@
+<snippet>
+  <content><![CDATA[
+Patiënt kreeg een $1 durende aanval met $2 ${3:met }bewustzijnsverlies. Patiënt voelde het ${4:niet }aankomen${5: (geen aura)}. Hierbij had patiënt ${6:een} tongbeet en ${7:geen }urineverlies. Na de aanval was patiënt ${8:niet }post-ictaal${9:, inmiddels is dit opgeklaard}.${10: Nog nooit eerder een insult doorgemaakt.}${11: Er komt geen epilepsie voor in de familie.} Stressoren in het verhaal: ${13:slaaptekort, }${14:alcohol, }${15:drugs, }${16:stress}
+]]></content>
+  <tabTrigger>_anamnese-epilepsie</tabTrigger>
+</snippet>

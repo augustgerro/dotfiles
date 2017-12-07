@@ -1,0 +1,5 @@
+<snippet>
+  <content><![CDATA[
+${1:Uitval} ${2:rechts} bij ${3:radiculair syndroom} ${4:S1} ${2:rechts}, ${5:niet }progressief, ${6:geen }aanwijzingen voor cauda equina compressie]]></content>
+  <tabTrigger>__conclusie-rugklachten</tabTrigger>
+</snippet>

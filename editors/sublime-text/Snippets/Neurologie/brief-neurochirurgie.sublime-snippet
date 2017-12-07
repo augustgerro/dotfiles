@@ -1,0 +1,51 @@
+<snippet>
+    <content><![CDATA[
+Geachte collega,  
+
+Bovengenoemde patiënt werd van $1-2017 tot en met $2-2017 opgenomen op de afdeling Neurochirurgie van het NWZ, locatie Alkmaar.  
+
+**Reden van opname:**  
+$4  
+
+**Voorgeschiedenis:**  
+$5  
+
+**Medicatie bij opname:**  
+$6  
+
+Voor anamnese en lichamelijk onderzoek verwijs ik naar de Spoedeisende Hulp brief van $1-2017.  
+
+**Aanvullend onderzoek:**  
+$7  
+
+**Operatie:**  
+$8  
+
+${9:**Pathologie:**  
+$10  
+
+}**Decursus:**  
+$11. Er deden zich gedurende opname geen complicaties voor. Patiënt kon op $2-2017 naar huis worden ontslagen. ${12:Bij ontslag had patiënt geen restverschijnselen meer}.  
+
+**Medicatie bij ontslag:**  
+*Nieuw:*  
+$0  
+*Onveranderd:*  
+
+
+**Conclusie:**  
+$13  
+
+**Beleid/Vervolgafspraken:**  
+${3:Geen vervolgafspraken}  
+
+
+Met collegiale hoogachting, $TM_NAME_AND_TITLE   
+
+Mede namens, $14  
+
+${15:cc. $16}  
+]]></content>
+    <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+    <tabTrigger>brief-neurochirurgie</tabTrigger>
+</snippet>

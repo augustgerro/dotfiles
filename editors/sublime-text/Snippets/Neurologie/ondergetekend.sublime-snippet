@@ -1,0 +1,10 @@
+<snippet>
+    <content><![CDATA[
+$TM_CO_NAME, coassistent neurologie
+$TM_NAME_AND_TITLE
+
+Mede namens, $TM_DIENST_SUPERVISOR
+]]></content>
+    <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+    <tabTrigger>sig</tabTrigger>
+</snippet>

@@ -1,0 +1,5 @@
+<snippet>
+  <content><![CDATA[
+EMV controles: elk halfuur gedurende de eerste twee uur, hierna een keer per uur gedurende 4 uur, hierna elke 2 uur tot 24 uur.${1: Bij achteruitgang in de neurologische status dient herevaluatie met behandelend arts plaats te vinden en wordt opnieuw begonnen met het schema.}]]></content>
+  <tabTrigger>__controles-emv</tabTrigger>
+</snippet>

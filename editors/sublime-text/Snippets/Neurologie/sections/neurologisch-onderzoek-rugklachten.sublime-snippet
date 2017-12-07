@@ -1,0 +1,10 @@
+<snippet>
+  <content><![CDATA[
+${1:Patiënt is helder, }${2:georiënteerd, }oogt ${3:niet }pijnlijk
+M: ${4:__no-motoriek-rug}
+S: ${6:__no-sensibiliteit-rug}
+R: ${7:__no-reflexen}
+C: ${8:Coördinatie intact.}
+Lasègue: ${9:negatief}/${10:negatief}]]></content>
+  <tabTrigger>_no-rugklachten</tabTrigger>
+</snippet>

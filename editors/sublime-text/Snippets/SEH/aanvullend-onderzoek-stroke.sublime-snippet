@@ -1,0 +1,7 @@
+<snippet>
+  <content><![CDATA[
+ao-ctht$1
+ECG: ao-ecg$2
+Lab: ${3:gb}]]></content>
+  <tabTrigger>ao-stroke</tabTrigger>
+</snippet>

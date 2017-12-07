@@ -1,0 +1,10 @@
+<snippet>
+    <content><![CDATA[
+Inspectie: ${1:geen standsafwijking}${2:, geen zwelling}${3:, geen hematoom}
+Pijn: ${4:geen drukpijn laterale malleolus}${5:, geen drukpijn mediale malleolus}${6:, geen drukpijn os naviculare}${7:, geen drukpijn basis MT5}${8:, geen drukpijn proximale fibula}${9:, geen asdrukpijn MT1-5}
+Functie: ${10:kan 4 stappen zetten}${11:, voorste schuifladetest negatief}
+Sensibiliteit: ${12:globaal intact}
+]]></content>
+    <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+    <tabTrigger>loenkel</tabTrigger>
+</snippet>

@@ -1,0 +1,10 @@
+<snippet>
+    <content><![CDATA[
+Inspectie: ${1:geen standsafwijking}${2:, geen zwelling}${3:, geen hematoom}
+Pijn: ${4:geen drukpijn distale radius}${5:, geen drukpijn distale ulna}${6:, geen drukpijn in de tabatière anatomique}${7:, geen drukpijn op het os triquetrum}
+Functie: ${8:geen functiebeperking}
+Sensibiliteit: ${9:globaal intact}
+]]></content>
+    <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+    <tabTrigger>lopols</tabTrigger>
+</snippet>

@@ -1,0 +1,9 @@
+<snippet>
+  <content><![CDATA[
+Opname op ${1:311},
+${2:Acenocoumarol doordoseren volgens schema: $3,
+}${4:__controles-emv}
+Reanimatiebeleid: ${5:Volledig}
+]]></content>
+  <tabTrigger>_beleid-trauma-capitis-acenocoumarol</tabTrigger>
+</snippet>

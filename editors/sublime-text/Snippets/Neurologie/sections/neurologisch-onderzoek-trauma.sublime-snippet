@@ -1,0 +1,10 @@
+<snippet>
+  <content><![CDATA[
+${1:Patiënt is helder}${2:, georiënteerd}${3:, geen battle signs}${4:, monocle hematomen}${5:, geen liquorroe of otorroe}
+HZ: ${6:__no-hersenzenuwen-kort}
+M: ${7:__no-motoriek-rug}
+S: ${8:__no-sensibiliteit}
+R: ${9:__no-reflexen-kort}
+C: ${10:__no-coordinatie-kort}]]></content>
+  <tabTrigger>_no-trauma</tabTrigger>
+</snippet>

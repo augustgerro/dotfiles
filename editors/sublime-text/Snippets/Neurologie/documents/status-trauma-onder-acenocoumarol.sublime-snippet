@@ -1,0 +1,39 @@
+<snippet>
+  <content><![CDATA[
+${3:Consult M. Oranje iom ${TM_DIENST_SUPERVISOR/(dr\. )?(.*?),.+/\2/g}
+
+}Voorgeschiedenis
+$4
+
+Medicatie
+$5
+
+Anamnese
+${6:_anamnese-trauma-capitis}
+
+Lichamelijk onderzoek
+p $7 RR $8/$9 EMV $10
+
+Neurologisch onderzoek
+${11:_no-trauma}
+
+Aanvullend onderzoek
+CT-hersenen: ${12:__ct-hersenen-trauma}
+Lab: $13
+
+Conclusie
+${14:__conclusie-trauma-capitis}
+
+Beleid M. Oranje iom ${TM_DIENST_SUPERVISOR/(dr\. )?(.*?),.+/\2/g}
+${15:_beleid-trauma-capitis-acenocoumarol}
+
+${2:SEH} → ${16:311}
+$1        Beleid: ${17:volledig}
+C/ ${14:__conclusie-trauma-capitis}
+VG/$0
+A/ $6
+NO/
+AO/ CT-hersenen: $12
+B/ ${15:_beleid-trauma-capitis-acenocoumarol}]]></content>
+  <tabTrigger>trauma-capitis-acenocoumarol</tabTrigger>
+</snippet>

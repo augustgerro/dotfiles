@@ -1,0 +1,4 @@
+<snippet>
+  <tabTrigger>sex</tabTrigger>
+  <content><![CDATA[${1:m/v}${1/(m$)|(v$)|(^.*?$)/(?1:an)(?2:rouw)/}]]></content>
+</snippet>

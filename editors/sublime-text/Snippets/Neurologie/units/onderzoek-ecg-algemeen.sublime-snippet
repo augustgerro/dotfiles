@@ -1,0 +1,5 @@
+<snippet>
+  <content><![CDATA[
+${1:Sinusritme} $2, ${3:normale hartas}, ${4:normale geleidingstijden}, ${5:geen pathologische Q-golven}, ${6:normale r-top progressie}, ${7:geen ST elevatie of depressie}, ${8:geen pathologisch negatieve T-toppen}, ${9:geen linker of rechterventrikel hypertrofie}]]></content>
+  <tabTrigger>__ecg-algemeen</tabTrigger>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+  <content><![CDATA[
+BPPD ${1:posterieure kanaal (vertigo en nystagmus bij Dix-Hallpike)}${2: horizontale kanaal (anamnese en negatieve Dix-Hallpike, supine-roll?)}${3: anterieure kanaal (vertigo en downbeat nystagmus bij Dix-Hallpike)}
+]]></content>
+  <tabTrigger>dd-bppd</tabTrigger>
+</snippet>

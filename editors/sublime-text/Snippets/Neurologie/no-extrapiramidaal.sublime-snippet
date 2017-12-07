@@ -1,0 +1,7 @@
+<snippet>
+  <content><![CDATA[
+Extrapiramidaal: ${1:Normale gelaatsuitdrukking, }${2:geen onwillekeurige bewegingen, }${3:geen rigiditeit, }${4:geen tremoren, }${5:geen bewegingsarmoede, }${6:geen spasticiteit}
+  ]]></content>
+  <tabTrigger>__no-extrapiramidaal</tabTrigger>
+</snippet>
+  

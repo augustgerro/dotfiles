@@ -1,0 +1,4 @@
+<snippet>
+  <content><![CDATA[\$${SELECTION/.+/{/g}$0${SELECTION/.+/:/g}${SELECTION}${SELECTION/.+/}/g}]]></content>
+  <tabTrigger>snipwrap</tabTrigger>
+</snippet>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+  <dict>
+    <key>name</key>
+    <string>Ziekenhuis Metadata</string>
+    <key>scope</key>
+    <string></string>
+    <key>settings</key>
+    <dict>
+       <key>shellVariables</key>
+       <array>
+          <dict>
+              <key>name</key>
+              <string>TM_NAME_AND_TITLE</string>
+              <key>value</key>
+              <string>M. Oranje, ANIOS SEH</string>
+          </dict>
+         <dict>
+             <key>name</key>
+             <string>TM_ZAAL_SUPERVISOR</string>
+             <key>value</key>
+             <string>naam</string>
+         </dict>
+         <dict>
+             <key>name</key>
+             <string>TM_DIENST_SUPERVISOR</string>
+             <key>value</key>
+             <string>naam</string>
+         </dict>
+         <dict>
+             <key>name</key>
+             <string>TM_CO_NAME</string>
+             <key>value</key>
+             <string>naam</string>
+         </dict>
+       </array>
+    </dict>
+  </dict>
+</plist>

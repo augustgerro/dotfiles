@@ -1,0 +1,44 @@
+<snippet>
+  <content><![CDATA[
+${3:Consult M. Oranje iom ${TM_DIENST_SUPERVISOR/(dr\. )?(.*?),.+/\2/g}
+
+}Voorgeschiedenis
+$4
+
+Medicatie
+$5
+
+Anamnese
+$6
+
+Hetroanamnese
+${7:Parter: }$8
+
+Lichamelijk onderzoek
+p $9 RR $10/$11 AF $12 sat $13% t $14 EMV $15
+
+Neurologisch onderzoek
+${16:_no-gedaald-bewustzijn}
+
+Aanvullend onderzoek
+CT-hersenen: $17
+Lab: $18
+ECG: ${19:__ecg-algemeen}
+
+Conclusie
+Gedaald bewustzijn ${20:met $21 } ${22:__dd-gedaald-bewustzijn}
+
+Beleid M. Oranje iom ${TM_DIENST_SUPERVISOR/(dr\. )?(.*?),.+/\2/g}
+${23:_beleid-opname}
+
+${2:SEH} → ${24:NH}
+$1        Beleid: ${25:volledig}
+C/ Gedaald bewustzijn ${20:met $21 } ${22:__dd-gedaald-bewustzijn}
+VG/$0
+A/ $6
+HA/ $8
+NO/
+AO/ CT-hersenen: ${17:__ct-hersenen-trauma} Lab: $18 ECG: ${19:__ecg-algemeen}
+B/ ${23:_beleid-opname}]]></content>
+  <tabTrigger>gedaald-bewustzijn</tabTrigger>
+</snippet>

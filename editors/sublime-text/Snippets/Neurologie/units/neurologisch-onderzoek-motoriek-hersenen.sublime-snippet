@@ -1,0 +1,5 @@
+<snippet>
+  <content><![CDATA[
+${1:PUA zakt niet uit en proneert niet}, ${2:Mingazzini zakt niet} biceps ${3:5/5}, triceps ${4:5/5}, knijpkracht handen ${5:5/5}, iliopsoas ${6:5/5}, quadriceps ${7:5/5}, hamstrings ${8:5/5}, flexoren voet ${9:5/5}, extensoren voet ${10:5/5}]]></content>
+  <tabTrigger>__no-motoriek-hersenen</tabTrigger>
+</snippet>

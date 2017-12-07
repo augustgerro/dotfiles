@@ -1,0 +1,12 @@
+<snippet>
+  <tabTrigger>palliatief</tabTrigger>
+  <content><![CDATA[
+Behandelen volgens zorgpad stervensfase,
+${1:Medicatie gestopt,
+}${2:Bij onrust: start midazolampomp op 1,5mg/u iv, met bolus van 5mg iv vooraf,
+Verhoog voorgaande met 150% bij aanhoudende onrust,
+}${3:Bij respiratoir discomfort: start morfine pomp op 2mg/u iv,
+Verdubbel voorgaande dosis bij aanhoudende discomfort, met subcutane dosis morfine van ${:7,5}mg,
+}${4:Gaarne volledige naam, geboortestad en eventuele naam van echtgenoot noteren in dossier.}
+  ]]></content>
+</snippet>

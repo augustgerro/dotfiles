@@ -1,0 +1,10 @@
+<snippet>
+  <content><![CDATA[
+${1:Patiënt is helder, }${2:georiënteerd, }${3:geen afasie of dysartrie.}
+HZ: ${4:Geen afwijkingen.}
+M: ${5:Armen en benen symmetrisch krachtig.}
+S: ${6:Globaal intact.}
+R: ${7:Reflexen symmetrisch aanwezig.}
+C: ${8:Coördinatie intact.}]]></content>
+  <tabTrigger>_no-kort</tabTrigger>
+</snippet>

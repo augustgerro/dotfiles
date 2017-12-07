@@ -1,0 +1,15 @@
+<snippet>
+	<content><![CDATA[
+${2:Controles
+Vitale controles: ${3:niet afwijkend}
+
+}Anamnese
+$4
+
+Conclusie
+$1
+
+Beleid iom ${TM_ZAAL_SUPERVISOR/(dr\. )?(.*?),.+/\2/g}
+$5]]></content>
+	<tabTrigger>visite</tabTrigger>
+</snippet>

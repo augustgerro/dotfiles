@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+Reden van opname: $1
+Consultvraag: $2
+
+]]></content>
+  <tabTrigger>__consult</tabTrigger>
+</snippet>

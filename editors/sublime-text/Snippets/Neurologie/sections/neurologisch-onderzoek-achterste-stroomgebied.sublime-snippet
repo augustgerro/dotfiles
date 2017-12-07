@@ -1,0 +1,12 @@
+<snippet>
+  <content><![CDATA[
+${1:Patiënt is helder}${2:, georiënteerd}${3:, geen afasie of dysartrie.}${4: Niet nekstijf}
+HZ: ${5:pupillen isocoor en lichtreactief}${6:, GVO en OVB intact}${7:, geen nystagmus}${8:, geen diplopie}${9:, sensomotoriek van het gelaat intact}
+M: ${10:PUA zakt niet uit en proneert niet}${11:armen en benen symmetrisch krachtig}
+S: ${12:(V) ${13:pijnsensatie intact}${14:, grove tast intact}, (G) ${15:vibratiezin intact}${16:, bewegingszin vingers/tenen intact}${17:, proef van Romberg (proprioceptie): negatief}}
+R: ${18:symmetrisch aanwezig, }${19:VZR bdz plantairflexie}
+C: ${20:TNP intact, }${21:KHP intact, }${22:rebound symmetrisch normaal, }${23:diadochokinese handen en voeten intact, }${24:rompbalans intact, }${25:normaal rechtlijnig gangspoor, }${26:koorddansersgang intact}
+Head-trust test: ${27:negatief}/${28:negatief.}
+Dix-Halpike ${29:negatief}/${30:negatief.}]]></content>
+  <tabTrigger>_no-achterste-stroomgebied</tabTrigger>
+</snippet>

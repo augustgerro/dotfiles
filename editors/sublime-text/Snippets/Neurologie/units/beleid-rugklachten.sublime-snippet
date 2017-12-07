@@ -1,0 +1,14 @@
+<snippet>
+  <content><![CDATA[
+${1:Huiswaarts met advies,
+Opnieuw contact bij alarmsymptomen: gevoelloosheid in het rijbroekgebied, niet meer voelen passeren van mictie en defecatie of progressief krachtsverlies.
+}${2:Opname om in te stellen op pijnmedicatie op 311,}
+${3:Start Paracetamol 1000mg 4dd,}
+${4:Start oxycontin 10mg 2dd,}
+${5:Start oxynorm 5mg tot 6dd,}
+${6:Start lyrica 75mg 2dd,
+}${7:Start fraxiparine 0,3ml bij bedlegerigheid,}
+${8:Eventueel afspraak pijnpoli voor proefblokkade,}
+Reanimatiebeleid: ${9:Volledig}]]></content>
+  <tabTrigger>__beleid-rugklachten</tabTrigger>
+</snippet>

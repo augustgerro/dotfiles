@@ -1,0 +1,5 @@
+<snippet>
+  <content><![CDATA[
+${SELECTION/^([^\n]*? )([0-9|>|<][^\n]*?)? (?:LLL|LL|L|N|H|HH|HHH) [^\n]*?$\n/\1\2, /gm}]]></content>
+  <tabTrigger>format-lab</tabTrigger>
+</snippet>

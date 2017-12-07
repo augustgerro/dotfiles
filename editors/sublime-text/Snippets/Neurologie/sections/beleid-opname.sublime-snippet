@@ -1,0 +1,13 @@
+<snippet>
+  <content><![CDATA[
+Opname op ${1:311},
+${2:__controles-emv}
+$0,
+${3:Infuusbeleid: 1,5L NaCL/24u
+}${4:Start fraxiparine bij bedleggerigheid,
+}${5:Eventueel morgen MRI inplannen ${6:(contra-indicaties uitgevraagd)},
+}${7:Consult ${8:ergo (natraject)}${9: fysio (loopvaardigheid)}${10: logo (spraaktraining en slikfunctie)},
+}Reanimatiebeleid: ${11:Volledig}
+]]></content>
+  <tabTrigger>_beleid-opname</tabTrigger>
+</snippet>

@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+${1:Duizeligheid zonder vertigo${5: dd hyperventilatie}${6: dd angstaanvallen}${7: dd dreigende syncope of vasovagale collaps}${8: dd orthostase}
+}${2:Duizeligheid met vertigo bij positieverandering dd BPPD
+}${3:Duizeligheid met spontane vertigo${9: dd ménière}${10: dd migraine}${11: dd TIA achterste stroomgebied}
+}${4:Duizeligheid met vertigo (langdurig)${12: dd neuritis vestibularis}${13: dd aandoening stam of cerebellum}${14: dd intoxicatie met geneesmiddelen}${15: dd RIP achterste schedelgroeve}}
+]]></content>
+    <tabTrigger>dd-duizeligheid</tabTrigger>
+</snippet>

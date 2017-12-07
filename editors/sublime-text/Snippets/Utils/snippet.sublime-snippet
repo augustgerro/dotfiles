@@ -1,0 +1,9 @@
+<snippet>
+  <content><![CDATA[
+<snippet>
+  <tabTrigger>$1</tabTrigger>
+  <content><![CDATA[
+$0]]$EMPTY></content>
+</snippet>]]></content>
+  <tabTrigger>snip</tabTrigger>
+</snippet>

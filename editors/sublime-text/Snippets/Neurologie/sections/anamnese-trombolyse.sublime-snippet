@@ -1,0 +1,5 @@
+<snippet>
+  <content><![CDATA[
+Patiënt wordt als trombolyse-melding gezien met sinds $1 $2. Patiënt wordt op $3 gepresenteerd. Patiënt gebruikt ${4:geen anticoagulantia} en is ${5:niet }bekend met een stollingstoornis. Is ${6:niet }recent geopereerd, ${7:geen }recent schedeltrauma, ${8:geen }bloeding in het hoofd en ${9:geen }recente bloeding in tractus digestivus of urogenitalis. Deze klachten worden als invaliderend beoordeeld en in afwezigheid van exclusie criteria werd patiënt op $10 getrombolyseerd (DTNT $11 ETNT $12).]]></content>
+  <tabTrigger>_anamnese-trombolyse</tabTrigger>
+</snippet>

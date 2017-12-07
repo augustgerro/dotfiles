@@ -1,0 +1,40 @@
+<snippet>
+    <content><![CDATA[
+Reden van komst: trauma ${1}
+Datum trauma: ${2}
+
+Traumamechanisme: ${3}
+Dominante hand: ${4:ja}
+
+Relevante medicatie: ${5}
+Relevante voorgeschiedenis:
+${6}
+
+Anamnese:
+${7}
+
+Beroep/hobby's: ${8}
+
+Onderzoek ${1}:
+${9:Inspectie: ${10:geen standsafwijkingen, }${11:geen wond, }${12:geen zwelling, }${13:geen hematoom }${14:en geen roodheid}
+Pijn: ${15: drukpijn}, ${16: asdrukpijn}
+Functie: ${17:bewegingsbeperking}
+Sensibiliteit: ${18:globaal intact}}
+
+Röntgen:
+X-${1}: ${19}
+
+Conclusie:
+${20}
+
+Behandeling op SEH:
+${21}
+
+Beleid:
+- ${22}
+- De gipskamer neemt telefonisch contact op met u op in de ochtend van eerstvolgende werkdag. Telefoonnummer ${23}.
+
+]]></content>
+    <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+    <tabTrigger>extrv</tabTrigger>
+</snippet>

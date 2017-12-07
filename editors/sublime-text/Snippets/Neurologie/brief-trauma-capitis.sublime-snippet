@@ -1,0 +1,40 @@
+<snippet>
+  <content><![CDATA[
+Geachte collega,
+
+Bovengenoemde patiënt werd $5-2017 van tot en met $6-2017 opgenomen op de afdeling Neurologie van het NWZ, locatie Alkmaar.
+
+**Reden van opname:**  
+Trauma capitis bij acenocoumarol gebruik.
+
+**Voorgeschiedenis:**  
+$0
+
+Voor anamnese en lichamelijk onderzoek verwijs ik naar de Spoedeisende Hulp brief van $5-2017. Kort samengevat presenteerde bovengenoemde patiënt zich met $7.
+
+**Medicatie bij opname:**  
+
+
+**Aanvullend onderzoek:**  
+CT-hersenen: Geen traumatische afwijkingen.
+
+**Decursus:**  
+Patiënt werd in verband met een trauma capitis bij acenocoumarolgebruik ter observatie opgenomen op de afdeling neurologie. EMV-controles gedurende 24 uur lieten geen bijzonderheden zien. Patiënt ontwikkelde gedurende de opname geen specifieke klachten. Op $6-2017 kon patiënt naar huis worden ontslagen. Een controleafspraak bij de neurologie werd niet gemaakt. 
+
+**Conclusie:**  
+Observatie na trauma capitis bij acenocoumarolgebruik, ongecompliceerd beloop.
+
+**Medicatie bij ontslag:**  
+Ongewijzigd
+
+**Vervolgafspraken:**  
+Geen
+
+Met collegiale hoogachting, $TM_NAME_AND_TITLE  
+
+Mede namens, $TM_ZAAL_SUPERVISOR  
+
+]]></content>
+  <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+  <tabTrigger>brief-trauma-capitis</tabTrigger>
+</snippet>

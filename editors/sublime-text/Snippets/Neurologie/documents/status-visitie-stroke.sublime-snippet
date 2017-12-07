@@ -1,0 +1,18 @@
+<snippet>
+	<content><![CDATA[
+Controles
+${2:_controles-stroke}
+
+Anamnese
+$3
+
+Conclusie
+${1:__conclusie-stroke}
+
+Beleid iom ${TM_ZAAL_SUPERVISOR/(dr\. )?(.*?),.+/\2/g}
+${4:Duplex carotiden,
+}$0
+CVA-nazorg,
+Uitleg over rijbevoegdheid.]]></content>
+	<tabTrigger>visite</tabTrigger>
+</snippet>

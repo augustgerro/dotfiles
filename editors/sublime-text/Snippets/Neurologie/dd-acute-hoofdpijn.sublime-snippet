@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[
+Acute hoofdpijn ${1:dd SAB }${2:dd sinustrombose }${3:dd benigne inspanningshoofdpijn }${4:dd hoofdpijn bij hoesten }${5:dd thunderclap headache}
+]]></content>
+    <tabTrigger>dd-acute-hoofdpijn</tabTrigger>
+</snippet>

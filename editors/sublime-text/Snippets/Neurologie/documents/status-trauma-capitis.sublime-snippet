@@ -1,0 +1,39 @@
+<snippet>
+	<content><![CDATA[
+${3:Consult M. Oranje iom ${TM_DIENST_SUPERVISOR/(dr\. )?(.*?),.+/\2/g}
+
+}Voorgeschiedenis
+$4
+
+Medicatie
+$5
+
+Anamnese
+${6:_anamnese-trauma-capitis}
+
+Lichamelijk onderzoek
+p $7 RR $8/$9 EMV $10
+
+Neurologisch onderzoek
+${11:_no-trauma}
+
+Aanvullend onderzoek
+CT-hersenen: ${12:__ct-hersenen-trauma}
+Lab: $13
+
+Conclusie
+${10/(1[3-5])|(9|1[0-2])|([3-8])|(\d+)/(?1Minor:)(?2Matig ernstig:)(?3Ernstig:)/} ${14:__conclusie-trauma-capitis}
+
+Beleid M. Oranje iom ${TM_DIENST_SUPERVISOR/(dr\. )?(.*?),.+/\2/g}
+${15:__beleid-trauma-capitis}
+
+${2:SEH} → ${17:NH}
+$1				Beleid: ${18:volledig}
+C/ ${14:__conclusie-trauma-capitis}
+VG/$0
+A/ $6
+NO/
+AO/ CT-hersenen: $12
+B/ ${16:Naar huis met adviezen}]]></content>
+	<tabTrigger>trauma-capitis</tabTrigger>
+</snippet>

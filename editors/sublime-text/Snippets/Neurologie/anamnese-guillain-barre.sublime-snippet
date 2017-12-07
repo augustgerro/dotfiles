@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+Sinds $1 last van $2. ${3:Geen} klachten passend bij recent doorgemaakt bovenste luchtweginfectie of gastro-enteritis (C. jejuni). ${4:Geen} recent buitenlandbezoek. ${5:Geen} insectenbeten of andere beten. ${6:Geen} recente vaccinaties. ${7:Geen} blootstelling aan toxinen mn organofosfaten (pesticiden/zenuwgas). ${8:Geen} besmette voeding gegeten (botulisme). ${9:Geen} recent spinaal trauma doorgemaakt.
+
+Bilaterale parese van $10 ${11:dd virale voorhoorn/ motor neuron aantasting (poliomyelitis, enterovirus, West Nile virus, HSV, CMV, EBV, VZV, Rabies, HIV) }${12:dd myelitis transvarsa (mycoplasma pneumoniae, HSV, CMV, EBV, VZV) }${13:dd spinaal trauma (acute spinaal stenose, spinaal infarct) }${14:dd acute perifere neuropathie (infectie eg HSV, HIV, inname van toxinen eg kogelvis, lood, thallium, arsenicum, tekenverlamming, lyme, porfyrie) }${15:dd ziekte van de neuromusculaire overgang (myasthenia gravis, Lambert-Eaton, botulisme) }${16:dd neuromusculaire zwakte door ernstige ziekte (critical illness neuropathy and myopathy) }${17:dd spierziekten (acute myositis, periodieke paralyse, functioneel)}
+]]></content>
+    <tabTrigger>angbs</tabTrigger>
+</snippet>

@@ -1,0 +1,13 @@
+<snippet>
+  <content><![CDATA[
+Opname op $1,
+Om de aanval te couperen werd $2x ${3:1mg clonazepam iv}${4:10mg midazolam iv},
+Patiënt weegt $7kg werd opgeladen met Keppra ${8:25*$7mg inlopen in 5*$7mg/min (volwassene)} ${9:40*$7mg inlopen in 8 minuten (kind)},
+Onderhoud: Keppra ${10:500mg 2dd (volwassene)}${11:10*$7mg/dag in 2 doses},
+${12:Lab: glucose (vingerprik), BSE, bloedbeeld, CRP, Na, K, Ca, Mg, Ph, nierfunctie, leverfunctie, toxscreen, alcohol/ethanol, lactaat, ammoniak, CK, bloedgas, HCO3, spijtserum},
+${13:Bij alcoholabusus: thiamine 250mg im of iv (500mg iv bij verdenking Wernicke encefalopathie) (afname vitamine B1 spiegel voordien)},
+${14:Bij hypoglykemie: glucose 50% 1 flesje van 50ml (volwassen) of glucose 10%, 5*$7ml (kinderen)},
+${15:Beeldvorming: EEG en MRI${16:contra-indicaties uitgevraagd}}
+]]></content>
+  <tabTrigger>bstatus</tabTrigger>
+</snippet>

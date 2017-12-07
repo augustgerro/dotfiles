@@ -1,0 +1,7 @@
+[
+    {"command": "insert_snippet", "args": {"name": "Packages/User/Snippets/Neurologie/sections/neurologisch-onderzoek-sensibiliteit-onderrug.sublime-snippet"}},
+    { "command": "insert_snippet", "args": {"name": "Packages/User/Snippets/Neurologie/units/neurologisch-onderzoek-sensibiliteit-lwk.sublime-snippet"} },
+    { "command": "next_field" },
+    { "command": "insert_snippet", "args": {"name": "Packages/User/Snippets/Neurologie/units/neurologisch-onderzoek-sensibiliteit-swk.sublime-snippe"} },
+    { "command": "prev_field" }
+]

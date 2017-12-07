@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[
+Hoofdpijn na trauma ${1:dd idiopathische posttraumatische hoofdpijn }${2:dd dissectie van a. carotis of a. vertebralis}
+]]></content>
+    <tabTrigger>dd-traumatische-hoofdpijn</tabTrigger>
+</snippet>

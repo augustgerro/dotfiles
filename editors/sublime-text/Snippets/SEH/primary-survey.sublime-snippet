@@ -1,0 +1,14 @@
+<snippet>
+    <content><![CDATA[
+Primary survey
+A: ${1:ademweg vrij}${2:, niet meningeaal geprikkeld}.
+B: ${3:NAG bdz}, AF $4, SpO2 $5.
+C: RR $6, HF $7${8:, soepele buik}${9:, acra warm}${10:, capillary refill < 3 sec}${11:, geen tekenen van shock}.
+D: EMV ${12:15}${13:, PEARL}${14:, geen lateralisatie}.
+E: Glucose $15, temperatuur $16.
+]]></content>
+    <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+    <tabTrigger>abcd</tabTrigger>
+    <!-- Optional: Set a scope to limit where the snippet will trigger -->
+    <!-- <scope>source.python</scope> -->
+</snippet>

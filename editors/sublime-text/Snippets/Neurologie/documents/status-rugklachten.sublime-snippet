@@ -1,0 +1,35 @@
+<snippet>
+  <content><![CDATA[
+${3:Consult M. Oranje iom ${TM_DIENST_SUPERVISOR/(dr\. )?(.*?),.+/\2/g}
+
+}Voorgeschiedenis
+$4
+
+Medicatie
+$5
+
+Anamnese
+${6:_anamnese-rugklachten}
+
+Neurologisch onderzoek
+${11:_no-rugklachten}
+
+Aanvullend onderzoek
+Lab: $13
+
+Conclusie
+${14:__conclusie-rugklachten}
+
+Beleid M. Oranje iom ${TM_DIENST_SUPERVISOR/(dr\. )?(.*?),.+/\2/g}
+${15:__beleid-rugklachten}
+
+${2:SEH} → ${17:NH}
+$1        Beleid: ${18:volledig}
+C/ ${14:__conclusie-trauma-capitis}
+VG/$0
+A/ $6
+NO/
+AO/ CT-hersenen: $12
+B/ ${16:Naar huis met adviezen}]]></content>
+  <tabTrigger>rugklachten</tabTrigger>
+</snippet>

@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+${1:__no-sensibiliteit-cwk}
+${2:__no-sensibiliteit-twk}
+${3:__no-sensibiliteit-lwk}
+${4:__no-sensibiliteit-swk}]]></content>
+  <tabTrigger>_no-sensibiliteit-wervelkolom</tabTrigger>
+</snippet>

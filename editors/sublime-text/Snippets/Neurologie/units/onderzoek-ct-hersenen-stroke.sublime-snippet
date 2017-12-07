@@ -1,0 +1,5 @@
+<snippet>
+  <content><![CDATA[
+${1:Geen bloeding of recente ischemie}]]></content>
+  <tabTrigger>__ct-hersenen-stroke</tabTrigger>
+</snippet>

@@ -1,0 +1,21 @@
+<snippet>
+  <content><![CDATA[
+Voorgeschiedenis: 
+Allergieën: ${1:geen}
+Medicatie: ${2:geen}
+Ziektegeschiedenis: ${3:blanco}${4:
+Zwanger: ${5:nvt}}
+Laatste maaltijd: ${6:> 6 uur geleden}
+Event: ${7:hoog}${8:laag} energetisch ${9:frontaal}${10:lateraal}${11:achterwaarts}${12:ejectie}${13:impressie}${14:penetrerend} trauma ${15:1 uur} voor presentatie
+
+Hoofd: ${16:geen traumatisch letsel aan de ogen, }oogspieren ${17:intact} in alle richtingen, ${18:geen} aanwijzen voor fracturen bij palpatie van het gelaat, ${19:geen oppervlakkig letsel of hematomen op het hoofd en in het gelaat, }${20:geen bloed/liqour in oren, neus of mond, }${21:geen losse elementen in de mond}
+Nek en CWK: ${22:geen oppervlakkig letsel, }${23:geen drukpijn op de CWK, }trachea ${24:in de midline}${25:, symmetrische pulsaties in carotiden}${26:, geen carotissouffles bij auscultatie}
+Thorax: ${27:Geen} oppervlakkig letsel aan de thorax, ${28:voldoende diepe} ${29:zichtbare} ${30:bilaterale} ademexcursies${31:, normale harttonen}${32:, hulpadehalingsspieren worden niet gebruikt}${33:, ribben niet drukpijnlijk}${34:, sonore percussie}
+Abdomen: ${35:Geen oppervlakkig trauma aan het abdomen, }${36:normale peristaltiek}${37:, geen druk- of loslaatpijn}${38:, geen defense}${39:, geen pijn elders in de buik}${40:, geen aanwijzingen voor zwangerschap}${41:
+Perineum: Geen hematomen of laceraties, geen bloed bij de urine}${42:
+Rectum: Geen bloedverlies, normale sfincterspanning, darmwand intact, geen ossale fragmenten, prostaat normaal}${43:
+Vagina: Geen bloedverlies, geen oppervlakkig letsel}
+Musculoskeletaal: ${44:Geen oppervlakkig trauma aan extremiteiten}${45:, extremiteiten niet drukpijnlijk}${46:, perifere pulsaties intact}, bekken ${47:niet} drukpijnlijk, wervelkolom ${48:niet} drukpijnlijk
+Neurologisch: EMV ${49:15}, pupillen ${50:normale grootte, }${51:isocoor} en ${52:niet }lichtreactief, ${53:geen }lateralisatie]]></content>
+  <tabTrigger>ss</tabTrigger>
+</snippet>

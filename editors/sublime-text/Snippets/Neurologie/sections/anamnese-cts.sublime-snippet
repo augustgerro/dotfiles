@@ -1,0 +1,5 @@
+<snippet>
+  <content><![CDATA[
+Sinds ${1:1 maand} ${2:tintelingen} ${3:pijn} ${4:doofheid} van dig ${5:1}${6:, 2}${7:, 3}${8: en 4} ${9:rechts}. Daarbij ${10:geen} krachtverlies bemerkt aan de aangedane hand. De klachten zijn met name in ${11:nacht} aanwezig. Andere hand is ${12:niet} aangedaan. Patiënt belast de hand ${13:niet }overmatig.]]></content>
+  <tabTrigger>_anamnese-cts</tabTrigger>
+</snippet>

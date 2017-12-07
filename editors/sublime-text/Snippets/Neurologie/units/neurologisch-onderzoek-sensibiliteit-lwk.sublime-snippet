@@ -1,0 +1,5 @@
+<snippet>
+  <content><![CDATA[
+${1:Doofheid}${2:Pijn} het meest uitgesproken ${3:in het rijbroekgebied (L1-2) }${4:aan de mediale zijde bovenbeen (L3) }${5:aan de mediale zijde onderbeen (L4) }${6:aan de laterale zijde onderbeen tot in dig 1 (L5) }${7:rechts}${8:links}]]></content>
+  <tabTrigger>__no-sensibiliteit-lwk</tabTrigger>
+</snippet>

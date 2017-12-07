@@ -1,0 +1,15 @@
+<snippet>
+  <content><![CDATA[
+Opname op de ${1:BCU},
+${2:Controles: EMV a 1 uur,
+}${3:Start amoxcilline 1000mg 6dd iv,
+}${4:Start ceftriaxon 2000mg 2dd iv,
+}${5:Start aciclovir 10mg/kg 3dd iv,
+}${6:Start dexamethason 10mg 4dd iv,}
+Bloedkweek, liqourkweek@,
+${7:Grampreparaat@, bij positieve uitslag aciclovir staken,}
+${8:Start fraxiparine bij bedleggerigheid,}
+Beleid: ${9:volledig}
+]]></content>
+  <tabTrigger>bmeningitis</tabTrigger>
+</snippet>

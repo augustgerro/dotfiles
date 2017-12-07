@@ -1,0 +1,5 @@
+<snippet>
+  <content><![CDATA[
+${1:BPR: ${2:0/0} (C5/6), }${3:BRPR ${4:0/0} (C5/6), }${5:TPR ${6:0/0} (C6/7), }${7:Abdominale reflexen bdz symmetrisch aanwezig (Th5-12), }${8:cremaster reflex bdz aanwezig (man, L1/2), }${9:KPR ${10:0/0} (L3/4), }${11:APR: ${12:0/0} (S1), }${13:VZR ${14:bdz plantair} (L5), }${15:anale reflex aanwezig (S3-5)}]]></content>
+  <tabTrigger>__no-reflexen</tabTrigger>
+</snippet>

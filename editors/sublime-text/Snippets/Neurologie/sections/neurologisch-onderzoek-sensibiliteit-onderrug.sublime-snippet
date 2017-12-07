@@ -1,0 +1,6 @@
+<snippet>
+  <content><![CDATA[
+${1:__no-sensibiliteit-lwk}
+${2:__no-sensibiliteit-swk}]]></content>
+  <tabTrigger>_no-sensibiliteit-onderrug</tabTrigger>
+</snippet>

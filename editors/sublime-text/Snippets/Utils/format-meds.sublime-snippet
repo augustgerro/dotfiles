@@ -1,0 +1,4 @@
+<snippet>
+  <content><![CDATA[${SELECTION/.*?\d{2}:\d{2} {2,}(\w)(.*?)(?: caps | capsule | capsulec | creme | cremevag | inf | infpdr | infvlst | inhpdr | inj | injpdr | injsusp | injvlst | kauwtablet | klysma | nevel | pdrvdrnk | pleister | poeder | siroop | spray | tabl | tablet | tabletec | tabletga | verneveloplossing | zetpil ).*?(?:CUT |PO |SON |IV |TRA |TRN |SC |RCT )(.*?) (.*?) {2,}(.*?) *?$/\U\1\L\2 \5 \3\4,\n/gmi}]]></content>
+  <tabTrigger>format-meds</tabTrigger>
+</snippet>

@@ -1,0 +1,5 @@
+<snippet>
+  <content><![CDATA[
+${1:Reflexen symmetrisch aanwezig, }${2:VZR bdz plantair}]]></content>
+  <tabTrigger>__no-reflexen-kort</tabTrigger>
+</snippet>

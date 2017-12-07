@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+Tractus circulatorius
+${1:Geen pijn op de borst}${2:, geen uitstralende pijn}${3:, geen vegetatieve verschijnselen}${4:, geen palpitaties}${5, geen syncope}${6:, geen dyspneu}${7:, geen dyspneu d'effort}${8:, geen orthopneu}${9:, geen nycturie}${10:, geen oedeem}
+Risicofactoren: ${11:hypertensie}${12:, DM}${13:, hypercholesterolemie}${14:, roken}${15:, overgewicht}${16:, familieanamnese positief}
+]]></content>
+    <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+    <tabTrigger>trcirc</tabTrigger>
+</snippet>

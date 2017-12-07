@@ -1,0 +1,4 @@
+<snippet>
+  <content><![CDATA[${SELECTION/,\r?\n(\w)/, \L\1/gmi}]]></content>
+  <tabTrigger>single-line</tabTrigger>
+</snippet>

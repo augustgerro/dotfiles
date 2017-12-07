@@ -1,0 +1,35 @@
+<snippet>
+    <content><![CDATA[
+Reden van opname: $4
+Consultvraag: $5
+
+Voorgeschiedenis
+$6
+
+Medicatie
+$7
+
+Anamnese
+$8
+
+Neurologisch onderzoek
+$9
+
+Aanvullend onderzoek
+$10
+
+Conclusie
+$11
+
+Beleid M. Oranje iom $3
+$12
+
+ICC ${2:}
+$1
+C/ $11
+${13:AO/ ${14}
+}B/ $15
+]]></content>
+    <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+    <tabTrigger>consult</tabTrigger>
+</snippet>

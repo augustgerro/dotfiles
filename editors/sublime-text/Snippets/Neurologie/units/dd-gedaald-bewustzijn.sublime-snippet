@@ -1,0 +1,5 @@
+<snippet>
+  <content><![CDATA[
+${1:dd intoxicatie }${2:dd delier }${3:dd insult }${4:dd menigitis }${5:dd hydrocephalus }${6:dd SAB }${7:dd sinustrombose }${8:dd basilaristrombose }${9:dd staminfarct/bloeding }${10:dd metabool/hypoglykemie }${11:dd katatonie}]]></content>
+  <tabTrigger>__dd-gedaald-bewustzijn</tabTrigger>
+</snippet>

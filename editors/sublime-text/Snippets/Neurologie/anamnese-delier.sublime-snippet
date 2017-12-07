@@ -1,0 +1,7 @@
+<snippet>
+  <content><![CDATA[
+Patiënt heeft sinds $1 een bewustzijnsstoornis ($2) en een geheugenstoornis ($3).${4: Deze stoornissen zijn niet toe te schrijven aan een reeds aanwezige, vastgestelde of zich ontwikkelende dementie.} Over de dag fluctueert dit beeld${5: niet}.
+Risicofactoren: ${6:leeftijd, }${7:acute opname-indicatie, }${8:medicatiegebruik, }${9:infectie, }${10:fixatie, }${11:cognitieve stoornissen of dementie, }${12:ernst van de ziekte, }${13:visusstoornis}
+]]></content>
+  <tabTrigger>andelier</tabTrigger>
+</snippet>

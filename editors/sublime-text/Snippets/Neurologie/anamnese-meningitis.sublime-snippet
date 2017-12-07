@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[
+Patiënt heeft sinds ${1:vandaag} last van ${2:hoofdpijn} en een progressief ${3:verlaagd bewustzijn}${4: (nu EMV $5)}. Daarbij${6: niet} misselijk of gebraakt. ${7:Geen} andere focus voor infectie. ${8:Geen} huidafwijkingen gezien. ${9:Niet} gevaccineerd tegen meningokok. ${10:Geen} mensen met een actieve HSV infectie inde omgeving.
+]]></content>
+    <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+    <tabTrigger>anmeningitis</tabTrigger>
+</snippet>

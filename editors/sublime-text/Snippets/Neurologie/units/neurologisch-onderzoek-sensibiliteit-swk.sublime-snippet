@@ -1,0 +1,5 @@
+<snippet>
+  <content><![CDATA[
+${1:Doofheid}${2:Pijn} het meest uitgesproken ${3:aan de achterzijde onderbeen en dig 5 (S1) }${4:aan de achterzijde bovenbeen tot onder de knieholte (S2) }${5:rond de billen (S3-5) }${6:rechts}${7:links}]]></content>
+  <tabTrigger>__no-sensibiliteit-swk</tabTrigger>
+</snippet>

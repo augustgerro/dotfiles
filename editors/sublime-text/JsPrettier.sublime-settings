@@ -1,0 +1,33 @@
+{
+  //
+  // @auto_format_on_save { bool | default = false }
+  //
+  // Run js_prettier command automatically
+  // when JavaScript files are saved.
+
+  "auto_format_on_save" : true,
+
+  //
+  // For a complete list of supported options and acceptable values,
+  // please reference the `prettier` documentation at https://github.com/jlongster/prettier
+
+  "prettier_options": {
+
+    // Fit code within this line limit
+    "printWidth": 80,
+
+    // If true, will use single instead of double quotes
+    "singleQuote": true,
+
+    // Controls the printing of trailing commas wherever possible
+    "trailingComma": "none",
+
+    // Controls the printing of spaces inside array and objects
+    "bracketSpacing": true,
+
+    // Which parser to use. Valid options are "flow" and "babylon"
+    "parser": "babylon"
+
+  }
+
+}

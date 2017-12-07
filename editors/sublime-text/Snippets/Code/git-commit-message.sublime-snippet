@@ -1,0 +1,10 @@
+<snippet>
+  <content><![CDATA[
+${1:type (feat|fix|docs|style|refactor|test|chore)}${2:(${3:scope})}: ${4:subject (max 70 chars)}
+
+${5:body (present tense, motivation for change, contrast with previous behaviour)}
+
+${6:footer (referencing issues, breaking changes)}
+]]></content>
+  <tabTrigger>cmt</tabTrigger>
+</snippet>

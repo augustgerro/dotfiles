@@ -1,0 +1,5 @@
+<snippet>
+  <content><![CDATA[
+${1:Doofheid}${2:Pijn} het meest uitgesproken ${3:langs de laterale zijde van de boven arm (C5) }${4:laterale zijde van de onderarm en duim (C6) }${5:dig 3 zowel aan palmair als dorsale zijde van de hand (C7) }${6:mediale zijde van de hand en pink (C8) }${7:rechts}${8:links}]]></content>
+  <tabTrigger>__no-sensibiliteit-cwk</tabTrigger>
+</snippet>

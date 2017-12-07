@@ -1,0 +1,16 @@
+<snippet>
+  <content><![CDATA[
+Opname op BCU volgens stroke protocol,
+24-uurs ritme-observatie,
+Morgen nuchterlab, 
+${1:Duplex carotiden,
+}${2:Start} clopidogrel 75mg 1dd${3:, eenmaal opladen met clopidogrel 300mg},
+${4:Start} atorvastatine 40mg 1dd an (bij levensverwachting > 2 jaar),
+${5:Start pantoprazol 20mg 1dd bij ${6:leeftijd >70 jaar}${7: tr. digestivus in voorgeschiedenis}${8:gebruik van NSAIDs of andere anti-coagulantia},
+}${9:Start fraxiparine bij bedleggerigheid,
+}${10:Eventueel morgen MRI inplannen,${11: contra-indicaties uitgevraagd, geen bijzonderheden}
+}${12:Consult cardiologie bij atriumfibrilleren, CHADS-VASC $13, HAS-BLED $14,
+}${15:Consult ${16:ergo (natraject)}${17: fysio (loopvaardigheid)}${18: logo (spraaktraining en slikfunctie)},
+}Reanimatiebeleid: ${19:Volledig}]]></content>
+  <tabTrigger>__beleid-stroke</tabTrigger>
+</snippet>

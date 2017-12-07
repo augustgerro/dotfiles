@@ -1,0 +1,5 @@
+<snippet>
+  <content><![CDATA[
+${1:Geen primaire occlusies}. ${18:Carotiden vrij doorgankelijk}]]></content>
+  <tabTrigger>__ct-angio-hersenen-stroke</tabTrigger>
+</snippet>

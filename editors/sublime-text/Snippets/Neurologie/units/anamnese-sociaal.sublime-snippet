@@ -1,0 +1,6 @@
+<snippet>
+  <content><![CDATA[
+Patiënt woont ${1:samen}, werkt ${2:niet} en ${3:is niet ADL afhankelijk}
+]]></content>
+  <tabTrigger>__anamnese-sociaal</tabTrigger>
+</snippet>

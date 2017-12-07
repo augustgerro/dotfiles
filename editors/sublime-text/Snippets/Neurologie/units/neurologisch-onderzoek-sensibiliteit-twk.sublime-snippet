@@ -1,0 +1,5 @@
+<snippet>
+  <content><![CDATA[
+${1:Doofheid}${2:Pijn} het meest uitgesproken ${3:aan de mediale zijde van de onderarm (T1) }${4:aan de mediale zijde van de bovenarm (T2) }${5:op tepel hoogte (T4) }${6:ter hoogte van de processus xiphoideus (T8) }${7:op navel hoogte (T10) }${8:ter hoogte van het os pubis (T12) }${9:rechts}${10:links}]]></content>
+  <tabTrigger>__no-sensibiliteit-twk</tabTrigger>
+</snippet>

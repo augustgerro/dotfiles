@@ -1,0 +1,6 @@
+<snippet>
+  <content><![CDATA[
+${1:PUA zakt niet uit en proneert niet}, deltoideus ${2:5/5}${2/((?:.+)?[1-4](?:.+)?)|(.+)/(?1 \(C5\))/}, biceps ${3:5/5}${3/((?:.+)?[1-4](?:.+)?)|(.+)/(?1 \(C6\))/}, triceps ${4:5/5}${4/((?:.+)?[1-4](?:.+)?)|(.+)/(?1 \(C7\))/}, polsextensie/flexie ${5:5/5}${5/((?:.+)?[1-4](?:.+)?)|(.+)/(?1 \(C8\))/}, spreidkracht vingers ${6:5/5}${6/((?:.+)?[1-4](?:.+)?)|(.+)/(?1 \(Th1\))/}, iliopsoas ${7:5/5}${7/((?:.+)?[1-4](?:.+)?)|(.+)/(?1 \(L2\))/}, quadriceps ${8:5/5}${8/((?:.+)?[1-4](?:.+)?)|(.+)/(?1 \(L3-4\))/}, hamstrings ${9:5/5}${9/((?:.+)?[1-4](?:.+)?)|(.+)/(?1 \(L4-S1\))/} , flexie grote teen ${10:5/5}${10/((?:.+)?[1-4](?:.+)?)|(.+)/(?1 \(e. hallucis longus, L5\))/} en extensoren voet ${11:5/5}${11/((?:.+)?[1-4](?:.+)?)|(.+)/(?1 \(gastrocnemius, S1\))/}
+]]></content>
+  <tabTrigger>__no-motoriek-rug</tabTrigger>
+</snippet>

@@ -1,0 +1,5 @@
+<snippet>
+  <content><![CDATA[
+${1:pupillen isocoor en lichtreactief}${2:, GVO en OVB intact}${3:, geen nystagmus}${4:, geen diplopie}${5:, sensomotoriek van het gelaat intact}${6:, tongprotusie mediaan}${7:, nekmusculatuur symmetrisch krachtig}]]></content>
+  <tabTrigger>__no-hersenzenuwen-kort</tabTrigger>
+</snippet>
