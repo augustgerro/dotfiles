@@ -38,6 +38,7 @@ cask "the-unarchiver"
 cask "tunnelblick"
 cask "visual-studio-code"
 cask "vlc"
+cask "whatsapp"
 mas "Airmail 3", id: 918858936
 mas "Fantastical 2", id: 975937182
 mas "LastPass", id: 926036361
