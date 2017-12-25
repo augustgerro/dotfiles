@@ -2,9 +2,11 @@
 	"bootstrapped": true,
 	"in_process_packages":
 	[
+		"Dictionaries"
 	],
 	"installed_packages":
 	[
+		"A File Icon",
 		"All Autocomplete",
 		"AutoSpell",
 		"BracketHighlighter",
@@ -27,6 +29,7 @@
 		"RemoteSubl",
 		"rsub",
 		"Sync Settings",
+		"Wallaby",
 		"WordCount"
 	]
 }

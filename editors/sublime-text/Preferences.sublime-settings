@@ -68076,13 +68076,15 @@
 	"auto_complete_cycle": true,
 	"auto_complete_selector": "source, text",
 	"bold_folder_labels": true,
-	"color_scheme": "Packages/Material Theme/schemes/Material-Theme.tmTheme",
+	"color_scheme": "Packages/Color Scheme - Wallaby/Material-Theme.tmTheme",
 	"dictionary": "Packages/Dictionaries/Dutch.dic",
 	"draw_white_space": "all",
 	"font_size": 10,
 	"highlight_modified_tabs": true,
 	"ignored_packages":
 	[
+		"Dictionaries",
+		"Markdown",
 		"Vintage"
 	],
 	"indent_guide_options":
