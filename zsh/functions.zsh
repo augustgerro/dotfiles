@@ -11,15 +11,22 @@ ql () { qlmanage -p "$*" >& /dev/null; }    # ql:           Opens any file in Ma
 #   2.  WEB DEVELOPMENT
 #   ---------------------------------------
 
-httpHeaders () { /usr/bin/curl -I -L $@ ; }             # httpHeaders:      Grabs headers from web page
-
-#   httpDebug:  Download a web page and show info on what took time
-#   -------------------------------------------------------------------
-httpDebug () { /usr/bin/curl $@ -o /dev/null -w "dns: %{time_namelookup} connect: %{time_connect} pretransfer: %{time_pretransfer} starttransfer: %{time_starttransfer} total: %{time_total}\n" ; }
-
-
 # Remove pesky .DS_Store files from a given directory
 rds() { find "$@" -name '*.DS_Store' -type f -delete }
+
+# Init node.js package boilerplate
+node-project() {
+  git init
+  npm init yo generator-nm
+  npx license $(npm get init.license) -o "$(npm get init.author.name)" > LICENSE
+  npx gitignore node
+  npx covgen "$(npm get init.author.email)"
+  npx readme-md-generator
+  npx eslint-prettier-init
+  npm init -y
+  git add -A
+  git commit -m "Initial commit"
+}
 
 #   ---------------------------------------
 #   2.  GIT
