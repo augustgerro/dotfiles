@@ -68079,7 +68079,8 @@
 	"color_scheme": "Packages/Color Scheme - Wallaby/Material-Theme.tmTheme",
 	"dictionary": "Packages/Dictionaries/Dutch.dic",
 	"draw_white_space": "all",
-	"font_size": 10,
+	"font_face": "Fira Code",
+	"font_size": 12,
 	"highlight_modified_tabs": true,
 	"ignored_packages":
 	[

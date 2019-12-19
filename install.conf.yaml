@@ -16,11 +16,11 @@
     ~/.ssh/config: ssh/config
     ~/.zshrc: zsh/zshrc
     ~/Brewfile: Brewfile
-    ~/Library/Application Support/Sublime Text 3/Packages/User: editors/sublime-text
+    ~/Library/Application Support/Sublime Text 3/Packages/User: apps/sublime-text
 
 # Install homebrew, homebrew-cask and mas
 - shell:
-  - ~/.dotfiles/scripts/homebrew.sh
+    - ~/.dotfiles/scripts/homebrew.sh
 
 - link:
     ~/.oh-my-zsh/themes/moranje.zsh-theme: zsh/moranje.zsh-theme
