@@ -1,4 +1,5 @@
-init.author.name=Martien Oranje
-init.author.email=martien@thedigitaldoctor.net
-init.author.url=http://www.thedigitaldoctor.net
-save-exact=true
+init.author.name=M. Oranje
+init.author.email=martieno@gmail.com
+init.author.url=https://github.com/moranje
+init-license=MIT
+init.version=1.0.0
